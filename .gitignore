@@ -1,0 +1,16 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Log files
+logs/*.log
