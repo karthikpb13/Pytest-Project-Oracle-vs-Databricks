@@ -1,0 +1,101 @@
+EMPLOYEE_ID,EMPLOYEE_NAME,GENDER,DEPARTMENT,JOB_TITLE,HIRE_DATE,EXPERIENCE_YEARS,ORIGINAL_SALARY,INCREMENT_PERCENTAGE,REVISED_SALARY,PRIMARY_CONTACT,MANAGER_ID,CITY,COUNTRY,EMPLOYMENT_STATUS
+1,Aarav Sharma,MALE,IT,Software Engineer,07-03-2001,25,36379.0,20,43654.8,+919000000001,,Bengaluru,India,Active
+2,Priya Iyer,Female,HR,Senior Analyst,14-06-2002,24,37758.0,20,45309.6,+919000000002,,Pune,India,Active
+3,Rahul Mehta,MALE,Finance,Data Engineer,21-09-2003,23,39137.0,20,46964.4,+919000000003,,Mumbai,India,Active
+4,Sneha Patel,Female,Sales,HR Executive,01-12-2004,21,40516.0,20,48619.2,+919000000004,,Hyderabad,India,Active
+5,Karthik Verma,MALE,Marketing,Accountant,08-03-2005,21,41895.0,20,50274.0,+919000000005,,Chennai,India,Active
+6,Ananya Shetty,Female,Operations,Sales Manager,15-06-2006,20,43274.0,15,49765.1,+919000000006,1000.0,Delhi,India,Active
+7,Vikram Kumar,MALE,Engineering,QA Engineer,22-09-2007,19,44653.0,15,51350.95,vikram.kumar7@example.com,1000.0,Kolkata,India,Active
+8,Pooja Rao,Female,Support,Business Analyst,02-12-2008,17,46032.0,15,52936.8,+919000000008,1000.0,Ahmedabad,India,Inactive
+9,Arjun Mishra,MALE,Legal,Team Lead,09-03-2009,17,47411.0,15,54522.65,+919000000009,1000.0,Jaipur,India,Active
+10,Meera Reddy,Female,Procurement,Support Specialist,16-06-2010,16,48790.0,15,56108.5,+919000000010,,Kochi,India,Active
+11,Rohan Singh,MALE,IT,Software Engineer,23-09-2011,15,50169.0,10,55185.9,+919000000011,1001.0,Bengaluru,India,Active
+12,Divya Pillai,Female,HR,Senior Analyst,03-12-2012,13,51548.0,10,56702.8,+919000000012,1001.0,Pune,India,Active
+13,Aditya Bhadange,MALE,Finance,Data Engineer,10-03-2013,13,52927.0,10,58219.7,+919000000013,1001.0,Mumbai,India,Active
+14,Neha Nair,Female,Sales,HR Executive,17-06-2014,12,54306.0,10,59736.6,neha.nair14@example.com,1001.0,Hyderabad,India,Active
+15,Sanjay Shah,MALE,Marketing,Accountant,24-09-2015,11,55685.0,10,61253.5,+919000000015,1001.0,Chennai,India,Active
+16,Ishita Joshi,Female,Operations,Sales Manager,04-12-2016,9,57064.0,5,59917.2,+919000000016,1001.0,Delhi,India,Inactive
+17,Manoj Gupta,MALE,,QA Engineer,11-03-2017,9,58443.0,5,61365.15,+919000000017,1001.0,Kolkata,India,Active
+18,Kavya Das,Female,Support,Business Analyst,18-06-2018,8,59822.0,5,62813.1,+919000000018,1001.0,Ahmedabad,India,Active
+19,Nikhil Desai,MALE,Legal,Team Lead,25-09-2019,7,61201.0,5,64261.05,+919000000019,1001.0,Jaipur,India,Active
+20,Swati Kulkarni,Female,Procurement,Support Specialist,05-12-2020,5,62580.0,0,62580.0,+919000000020,,Kochi,India,Active
+21,Aarav Sharma,MALE,IT,Software Engineer,12-03-2021,5,63959.0,0,63959.0,aarav.sharma21@example.com,1002.0,Bengaluru,India,Active
+22,Priya Iyer,Female,HR,Senior Analyst,19-06-2022,4,65338.0,0,65338.0,+919000000022,1002.0,Pune,India,Active
+23,Rahul Mehta,MALE,Finance,Data Engineer,26-09-2023,3,66717.0,0,66717.0,+919000000023,1002.0,Mumbai,India,Active
+24,Sneha Patel,Female,Sales,HR Executive,06-12-2024,1,68096.0,0,68096.0,+919000000024,1002.0,Hyderabad,India,Inactive
+25,Karthik Verma,MALE,Marketing,Accountant,13-03-2025,1,69475.0,0,69475.0,+919000000025,1002.0,Chennai,India,Active
+26,Ananya Shetty,Female,Operations,Sales Manager,20-06-2001,25,70854.0,20,85024.8,+919000000026,1002.0,Delhi,India,Active
+27,Vikram Kumar,MALE,Engineering,QA Engineer,27-09-2002,24,72233.0,20,86679.6,+919000000027,1002.0,Kolkata,India,Active
+28,Pooja Rao,Female,Support,Business Analyst,07-12-2003,22,73612.0,20,88334.4,pooja.rao28@example.com,1002.0,Ahmedabad,India,Active
+29,Arjun Mishra,MALE,Legal,Team Lead,14-03-2004,22,74991.0,20,89989.2,+919000000029,1002.0,Jaipur,India,Active
+30,Meera Reddy,Female,Procurement,Support Specialist,21-06-2005,21,76370.0,20,91644.0,+919000000030,,Kochi,India,Active
+31,Rohan Singh,MALE,IT,Software Engineer,01-09-2006,20,77749.0,15,89411.35,+919000000031,1003.0,Bengaluru,India,Active
+32,Divya Pillai,Female,HR,Senior Analyst,08-12-2007,18,79128.0,15,90997.2,+919000000032,1003.0,Pune,India,Inactive
+33,Aditya Bhadange,MALE,Finance,Data Engineer,15-03-2008,18,80507.0,15,92583.05,+919000000033,1003.0,Mumbai,India,Active
+34,Neha Nair,Female,Sales,HR Executive,22-06-2009,17,81886.0,15,94168.9,+919000000034,1003.0,Hyderabad,India,Active
+35,Sanjay Shah,MALE,Marketing,Accountant,02-09-2010,16,83265.0,15,95754.75,sanjay.shah35@example.com,1003.0,Chennai,India,Active
+36,Ishita Joshi,Female,Operations,Sales Manager,09-12-2011,14,84644.0,10,93108.4,+919000000036,1003.0,Delhi,India,Active
+37,Manoj Gupta,MALE,Engineering,QA Engineer,16-03-2012,14,86023.0,10,94625.3,+919000000037,1003.0,Kolkata,India,Active
+38,Kavya Das,Female,Support,Business Analyst,23-06-2013,13,87402.0,10,96142.2,+919000000038,1003.0,Ahmedabad,India,Active
+39,Nikhil Desai,MALE,Legal,Team Lead,03-09-2014,12,88781.0,10,97659.1,+919000000039,1003.0,Jaipur,India,Active
+40,Swati Kulkarni,Female,Procurement,Support Specialist,10-12-2015,10,90160.0,5,94668.0,+919000000040,,Kochi,India,Inactive
+41,Aarav Sharma,MALE,IT,Software Engineer,17-03-2016,10,91539.0,5,96115.95,+919000000041,1004.0,Bengaluru,India,Active
+42,Priya Iyer,Female,HR,Senior Analyst,24-06-2017,9,92918.0,5,97563.9,priya.iyer42@example.com,1004.0,Pune,India,Active
+43,Rahul Mehta,MALE,,Data Engineer,04-09-2018,8,94297.0,5,99011.85,+919000000043,1004.0,Mumbai,India,Active
+44,Sneha Patel,Female,Sales,HR Executive,11-12-2019,6,95676.0,5,100459.8,+919000000044,1004.0,Hyderabad,India,Active
+45,Karthik Verma,MALE,Marketing,Accountant,18-03-2020,6,97055.0,5,101907.75,+919000000045,1004.0,Chennai,India,Active
+46,Ananya Shetty,Female,Operations,Sales Manager,25-06-2021,5,98434.0,0,98434.0,+919000000046,1004.0,Delhi,India,Active
+47,Vikram Kumar,MALE,Engineering,QA Engineer,05-09-2022,4,99813.0,0,99813.0,+919000000047,1004.0,Kolkata,India,Active
+48,Pooja Rao,Female,Support,Business Analyst,12-12-2023,2,101192.0,0,101192.0,+919000000048,1004.0,Ahmedabad,India,Inactive
+49,Arjun Mishra,MALE,Legal,Team Lead,19-03-2024,2,102571.0,0,102571.0,arjun.mishra49@example.com,1004.0,Jaipur,India,Active
+50,Meera Reddy,Female,Procurement,Support Specialist,26-06-2025,1,103950.0,0,103950.0,+919000000050,,Kochi,India,Active
+51,Rohan Singh,MALE,IT,Software Engineer,06-09-2001,25,105329.0,20,126394.8,+919000000051,1005.0,Bengaluru,India,Active
+52,Divya Pillai,Female,HR,Senior Analyst,13-12-2002,23,106708.0,20,128049.6,+919000000052,1005.0,Pune,India,Active
+53,Aditya Bhadange,MALE,Finance,Data Engineer,20-03-2003,23,108087.0,20,129704.4,+919000000053,1005.0,Mumbai,India,Active
+54,Neha Nair,Female,Sales,HR Executive,27-06-2004,22,109466.0,20,131359.2,+919000000054,1005.0,Hyderabad,India,Active
+55,Sanjay Shah,MALE,Marketing,Accountant,07-09-2005,21,110845.0,20,133014.0,+919000000055,1005.0,Chennai,India,Active
+56,Ishita Joshi,Female,Operations,Sales Manager,14-12-2006,19,112224.0,15,129057.6,ishita.joshi56@example.com,1005.0,Delhi,India,Inactive
+57,Manoj Gupta,MALE,Engineering,QA Engineer,21-03-2007,19,113603.0,15,130643.45,+919000000057,1005.0,Kolkata,India,Active
+58,Kavya Das,Female,Support,Business Analyst,01-06-2008,18,114982.0,15,132229.3,+919000000058,1005.0,Ahmedabad,India,Active
+59,Nikhil Desai,MALE,Legal,Team Lead,08-09-2009,17,116361.0,15,133815.15,+919000000059,1005.0,Jaipur,India,Active
+60,Swati Kulkarni,Female,Procurement,Support Specialist,15-12-2010,15,117740.0,10,129514.0,+919000000060,,Kochi,India,Active
+61,Aarav Sharma,MALE,IT,Software Engineer,22-03-2011,15,119119.0,10,131030.9,+919000000061,1006.0,Bengaluru,India,Active
+62,Priya Iyer,Female,HR,Senior Analyst,02-06-2012,14,120498.0,10,132547.8,+919000000062,1006.0,Pune,India,Active
+63,Rahul Mehta,MALE,Finance,Data Engineer,09-09-2013,13,121877.0,10,134064.7,rahul.mehta63@example.com,1006.0,Mumbai,India,Active
+64,Sneha Patel,Female,Sales,HR Executive,16-12-2014,11,123256.0,10,135581.6,+919000000064,1006.0,Hyderabad,India,Inactive
+65,Karthik Verma,MALE,Marketing,Accountant,23-03-2015,11,124635.0,10,137098.5,+919000000065,1006.0,Chennai,India,Active
+66,Ananya Shetty,Female,Operations,Sales Manager,03-06-2016,10,36014.0,5,37814.7,+919000000066,1006.0,Delhi,India,Active
+67,Vikram Kumar,MALE,Engineering,QA Engineer,10-09-2017,9,37393.0,5,39262.65,+919000000067,1006.0,Kolkata,India,Active
+68,Pooja Rao,Female,Support,Business Analyst,17-12-2018,7,38772.0,5,40710.6,+919000000068,1006.0,Ahmedabad,India,Active
+69,Arjun Mishra,MALE,,Team Lead,24-03-2019,7,40151.0,5,42158.55,+919000000069,1006.0,Jaipur,India,Active
+70,Meera Reddy,Female,Procurement,Support Specialist,04-06-2020,6,41530.0,5,43606.5,meera.reddy70@example.com,,Kochi,India,Active
+71,Rohan Singh,MALE,IT,Software Engineer,11-09-2021,5,42909.0,0,42909.0,+919000000071,1007.0,Bengaluru,India,Active
+72,Divya Pillai,Female,HR,Senior Analyst,18-12-2022,3,44288.0,0,44288.0,+919000000072,1007.0,Pune,India,Inactive
+73,Aditya Bhadange,MALE,Finance,Data Engineer,25-03-2023,3,45667.0,0,45667.0,+919000000073,1007.0,Mumbai,India,Active
+74,Neha Nair,Female,Sales,HR Executive,05-06-2024,2,47046.0,0,47046.0,+919000000074,1007.0,Hyderabad,India,Active
+75,Sanjay Shah,MALE,Marketing,Accountant,12-09-2025,1,48425.0,0,48425.0,+919000000075,1007.0,Chennai,India,Active
+76,Ishita Joshi,Female,Operations,Sales Manager,19-12-2001,24,49804.0,20,59764.8,+919000000076,1007.0,Delhi,India,Active
+77,Manoj Gupta,MALE,Engineering,QA Engineer,26-03-2002,24,51183.0,20,61419.6,,1007.0,Kolkata,India,Active
+78,Kavya Das,Female,Support,Business Analyst,06-06-2003,23,52562.0,20,63074.4,+919000000078,1007.0,Ahmedabad,India,Active
+79,Nikhil Desai,MALE,Legal,Team Lead,13-09-2004,22,53941.0,20,64729.2,+919000000079,1007.0,Jaipur,India,Active
+80,Swati Kulkarni,Female,Procurement,Support Specialist,20-12-2005,20,55320.0,15,63618.0,+919000000080,,Kochi,India,Inactive
+81,Aarav Sharma,MALE,IT,Software Engineer,27-03-2006,20,56699.0,15,65203.85,+919000000081,1008.0,Bengaluru,India,Active
+82,Priya Iyer,Female,HR,Senior Analyst,07-06-2007,19,58078.0,15,66789.7,+919000000082,1008.0,Pune,India,Active
+83,Rahul Mehta,MALE,Finance,Data Engineer,14-09-2008,18,59457.0,15,68375.55,+919000000083,1008.0,Mumbai,India,Active
+84,Sneha Patel,Female,Sales,HR Executive,21-12-2009,16,60836.0,15,69961.4,sneha.patel84@example.com,1008.0,Hyderabad,India,Active
+85,Karthik Verma,MALE,Marketing,Accountant,01-03-2010,16,62215.0,15,71547.25,+919000000085,1008.0,Chennai,India,Active
+86,Ananya Shetty,Female,Operations,Sales Manager,08-06-2011,15,63594.0,10,69953.4,+919000000086,1008.0,Delhi,India,Active
+87,Vikram Kumar,MALE,Engineering,QA Engineer,15-09-2012,14,64973.0,10,71470.3,+919000000087,1008.0,Kolkata,India,Active
+88,Pooja Rao,Female,Support,Business Analyst,22-12-2013,12,66352.0,10,72987.2,+919000000088,1008.0,Ahmedabad,India,Inactive
+89,Arjun Mishra,MALE,Legal,Team Lead,02-03-2014,12,67731.0,10,74504.1,+919000000089,1008.0,Jaipur,India,Active
+90,Meera Reddy,Female,Procurement,Support Specialist,09-06-2015,11,69110.0,10,76021.0,+919000000090,,Kochi,India,Active
+91,Rohan Singh,MALE,IT,Software Engineer,16-09-2016,10,70489.0,5,74013.45,rohan.singh91@example.com,1009.0,Bengaluru,India,Active
+92,Divya Pillai,Female,HR,Senior Analyst,23-12-2017,8,71868.0,5,75461.4,+919000000092,1009.0,Pune,India,Active
+93,Aditya Bhadange,MALE,Finance,Data Engineer,03-03-2018,8,73247.0,5,76909.35,+919000000093,1009.0,Mumbai,India,Active
+94,Neha Nair,Female,Sales,HR Executive,10-06-2019,7,74626.0,5,78357.3,+919000000094,1009.0,Hyderabad,India,Active
+95,Sanjay Shah,MALE,,Accountant,17-09-2020,6,76005.0,5,79805.25,+919000000095,1009.0,Chennai,India,Active
+96,Ishita Joshi,Female,Operations,Sales Manager,24-12-2021,4,77384.0,0,77384.0,+919000000096,1009.0,Delhi,India,Inactive
+97,Manoj Gupta,MALE,Engineering,QA Engineer,04-03-2022,4,78763.0,0,78763.0,+919000000097,1009.0,Kolkata,India,Active
+98,Kavya Das,Female,Support,Business Analyst,11-06-2023,3,80142.0,0,80142.0,kavya.das98@example.com,1009.0,Ahmedabad,India,Active
+99,Nikhil Desai,MALE,Legal,Team Lead,18-09-2024,2,81521.0,0,81521.0,+919000000099,1009.0,Jaipur,India,Active
+100,Swati Kulkarni,Female,Procurement,Support Specialist,25-12-2025,0,82900.0,0,82900.0,+919000000100,,Kochi,India,Active
