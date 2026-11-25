@@ -8,7 +8,7 @@ logger = get_logger("record_count", "logs/record_count.log")
 def mysql_count(mysql_engine):
 
     df = pd.read_sql(
-        "SELECT COUNT(*) AS record_count FROM EMPLOYEE_RAW",
+        "SELECT COUNT(*) AS record_count FROM EMPLOYEE_DB.EMPLOYEE_RAW",
         mysql_engine
     )
 
